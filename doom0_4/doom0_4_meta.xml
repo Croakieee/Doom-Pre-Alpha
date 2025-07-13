@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>doom0_4</identifier>
+  <mediatype>software</mediatype>
+  <collection>softwarelibrary_msdos_games</collection>
+  <creator>id software</creator>
+  <date>1993-04-02</date>
+  <description>&lt;div&gt;&lt;a href="https://doomwiki.org/wiki/Doom_v0.4" rel="nofollow"&gt;Read more about this prototype on DoomWiki.org&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;In order to create a complete collection of historic DOOM versions, as&lt;br /&gt;released to testers at the time, id Software has allowed to place this&lt;br /&gt;file, the Apr 2, 1993 alpha version of DOOM, in the official idgames&lt;br /&gt;archive.&lt;br /&gt;&lt;br /&gt;This file is collected here because of the historic interest shown in it,&lt;br /&gt;and is not supported by id Software in ANY way.  Please do NOT contact&lt;br /&gt;id Software about this file.  If you ignore this request, you will be&lt;br /&gt;summarily BFG-ed :)&lt;br /&gt;--&lt;br /&gt;Frans P. de Vries | fpv@ftp.cdrom.com | Doom/Quake archive backup maintainer&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Note to testers:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Dear Id Beta Tester,&lt;br /&gt;&lt;br /&gt;Yes, it's the DOOM ALPHA!  (Actually, we're just try to release these&lt;br /&gt;every two weeks or so.  This WAS going to be a pre-beta, but a certain&lt;br /&gt;person let us down Super-Nintendo-cart-programming-wise, so it's just an&lt;br /&gt;alpha.  Nonetheless, here 'tis.)&lt;br /&gt;&lt;br /&gt;WHAT'S NEW&lt;br /&gt;o  Animating floors&lt;br /&gt;o  Doors&lt;br /&gt;o  Flickering lights, strobe lights&lt;br /&gt;o  New level stuff&lt;br /&gt;o  Items visible&lt;br /&gt;o  Lots more art&lt;br /&gt;&lt;br /&gt;WHAT'S COMING&lt;br /&gt;o  Textures "anchored" so windows and doors actually look cut out of wall&lt;br /&gt;o  Raising and lowering sectors (there are a lot of these just waiting to&lt;br /&gt;   be raised and lowered, but...)&lt;br /&gt;o  N-E-T-W-O-R-K-I-N-G (actually, it's sort of in there now, but you can't&lt;br /&gt;   move anywhere, so...)&lt;br /&gt;o  A Read Me file with less ellipses...&lt;br /&gt;o  The entire rest of the game.&lt;br /&gt;&lt;br /&gt;You can get to levels 1-9 by the 1-9 keys.  To see 10-13, you must type&lt;br /&gt;&lt;br /&gt;DOOM E1Mx&lt;br /&gt;&lt;br /&gt;where x is the level number (1-13) you wish to see.&lt;br /&gt;&lt;br /&gt;LEVEL NOTES&lt;br /&gt;1       Getting near done. Will have signs to lead the lost by the nose.&lt;br /&gt;2       Some neat rooms in the crate maze, but south half not touched.&lt;br /&gt;3       Still just geometry.  Non-functional conveyor belts.&lt;br /&gt;4       Looking good, needs stuff and switches and so on.&lt;br /&gt;5       Also doin' great.  Awaiting incredible sector and segment triggers.&lt;br /&gt;6       Nothing.&lt;br /&gt;7       Some new gfx, but now that you can't climb up higher than 3 feet,&lt;br /&gt;        you can get to the cool bits.&lt;br /&gt;8       Good level for network death matches, awaiting gettable objects.&lt;br /&gt;9       Some cool bits and hidden rooms, but a work in progress.&lt;br /&gt;10      Not much here.&lt;br /&gt;11      Devoid of real levelness.  Forget all you have seen!&lt;br /&gt;12      Just the start is here with alpha graphics.&lt;br /&gt;13      Wall heights messed up for the moment, awaiting segment trigger.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Id News&lt;br /&gt;-------&lt;br /&gt;o  We're LIVE on the Internet, and have been wandering around all the amazing&lt;br /&gt;newsgroups (Tom already saw a lot of them in college.)&lt;br /&gt;o  Tom, John R., and their respective squeezes went to Phantom of the Opera.&lt;br /&gt;o  Carmack's driving his Ferrari to Kansas City.&lt;br /&gt;o  Jay's a proud new papa.  His son Nicholas is doing fine.&lt;br /&gt;o  Adrian's new house is getting lined up.&lt;br /&gt;o  Kevin's softball game is tonight.&lt;br /&gt;o  Shawn's enjoying his new 486/33 and scoping out clock doublers.&lt;br /&gt;o  We are beaming about our Best Action/Arcade of 1993 SPA Award!&lt;br /&gt;&lt;br /&gt;So, report any anomalies.&lt;br /&gt;&lt;br /&gt;We know that the one texture of Giger-ish tech stuff is screwed up, so don't&lt;br /&gt;bother reporting that.&lt;br /&gt;&lt;br /&gt;Also, send us your favorite joke.  (Do not worry--we CANNOT BE SHOCKED!)&lt;br /&gt;&lt;br /&gt;Thanks,&lt;br /&gt;&lt;br /&gt;The Bad Boys of Id&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;</description>
+  <language>eng</language>
+  <scanner>Internet Archive HTML5 Uploader 1.7.0</scanner>
+  <subject>doom</subject>
+  <subject>alpha</subject>
+  <subject>prototype</subject>
+  <subject>technology</subject>
+  <subject>test</subject>
+  <subject>techdemo</subject>
+  <subject>dos</subject>
+  <subject>usenet</subject>
+  <subject>bbs</subject>
+  <subject>id software</subject>
+  <subject>john romero</subject>
+  <subject>doom0_4.zip</subject>
+  <title> DOOM Alpha v0.4</title>
+  <uploader>marco@icculus.org</uploader>
+  <publicdate>2024-08-02 02:40:50</publicdate>
+  <addeddate>2024-08-02 02:40:50</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20240802024618[/date][comment]checked for malware[/comment]</curation>
+  <year>1993</year>
+  <emulator_ext>zip</emulator_ext>
+  <emulator>dosbox</emulator>
+  <emulator_start>DOOM.EXE</emulator_start>
+  <collection_added>softwarelibrary</collection_added>
+  <collection_added>emulation</collection_added>
+  <collection>softwarelibrary_msdos</collection>
+  <collection>softwarelibrary</collection>
+  <collection>emulation</collection>
+  <collection_added>softwarelibrary_msdos</collection_added>
+</metadata>
