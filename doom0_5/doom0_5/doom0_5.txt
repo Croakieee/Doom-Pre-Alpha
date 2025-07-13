@@ -1,0 +1,11 @@
+In order to create a complete collection of historic DOOM versions, as
+released to testers at the time, id Software has allowed to place this
+file, the May 22, 1993 alpha version of DOOM, in the official idgames
+archive.
+
+This file is collected here because of the historic interest shown in it,
+and is not supported by id Software in ANY way.  Please do NOT contact
+id Software about this file.  If you ignore this request, you will be
+summarily BFG-ed :)
+--
+Frans P. de Vries | fpv@ftp.cdrom.com | Doom/Quake archive backup maintainer

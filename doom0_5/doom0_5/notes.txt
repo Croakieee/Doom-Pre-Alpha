@@ -1,0 +1,194 @@
+Below are two posts to the Doom newsgroups that comment on various aspects
+of this alpha version.  They are included for your perusal, feel free to
+explore further.
+--
+Frans P. de Vries | fpv@ftp.cdrom.com | Doom/Quake archive backup maintainer
+
+
+
+From: robertd@lekera.southern.co.nz (Robert Densie)
+Newsgroups: rec.games.computer.doom.misc
+Subject: Re: Doom 1.0 or lower?!?! Love to see it!
+Date: Sun, 03 Dec 1995 13:25:05 +1200
+
+Theodore Duffy (tduffy@freenet.columbus.oh.us) wrote:
+: I read something recently around here, someone was talking about having
+: played the original beta release .99 or maybe 1.0 , with no barrels and
+: other weird stuff. Anyone know where I could find a copy of it? Just for
+: nostalgia's sake, and curiousity...
+
+: ForkLord (who still has his Doom 1.2 disks around here somewhere)
+
+I have seen and played the 0.99 version of Doom, I think I deleted
+the 0.99 version having upgraded it to 1.00.
+
+BUT ALSO
+
+I have here a version here (doom05-1.arj & doom05-2.arj)
+
+It's an ALPHA version of doom (I just run it to make sure)
+called "Doom: Evil Unleashed".  Start up screen says Doom Alpha by
+Id Software.
+
+It has the basic Doom engine, but
+* The imps and pink demons are in the game they don't move or anything
+  just stand there
+* No barrels (as noted above)
+* A lot of graphics from wolf is used (eg medic kit, gold treasure cup)
+* The map key is "a" not tab
+* The strafe and open door key are both alt
+* No sounds!
+* The two weapons you start with are (1) bayonet and (2) rifle
+* There is no run key (that I could find, so makes getting around really
+  slow)
+* It is quite easy to recognise some of the structures in the game
+  (so the whole map structure is now over two years old).  I can't
+  quote exactly were they are from but I do recognise them
+* In the screen options there is high, medium, low, <another one>, and
+  HIGH RES, so it looks like there use to be a high res mode that was
+  taken out in the official release.
+
+I other thing I did notice while looking through the doom.exe file is
+that there is reference to "E1M10 E1M11 E1M12 E1M13", so it looks like
+there was original more than 9 levels per episode
+
+The files included in the archives are
+config.lmp        152   3-12-95  12:43
+doom.exe       471452  22-05-93  17:49
+doom.wad      3522207  22-05-93  18:00
+dos4gw.exe     231179  11-11-92   9:01
+
+I know this version is really really old (as per the dates above),
+but I am still worried about what could happen if I did post it,
+It is now over two years old so who would really care it I did.
+
+--> What does everyone else think?? <--
+
+----------------------------------------------------------------------
+PLEASE, just follow-up this article in this news group, don't email me
+It costs me to send and receive email so I don't want my mail box full
+of "please post these files" from every Doom fanatic out there
+----------------------------------------------------------------------
+
+--
+| Robert Densie, Christchurch, New Zealand |   OS/2 Warp Supporter   |
+| robertd@lekera.southern.co.nz                                      |
+STRESS, The confusion created when one's mind  | To err is human, to
+overrides the body's basic desire to choke the | really foul things up
+living shit out of some asshole who needs it!  | requires a computer
+
+
+From: fpv@xymph.iaf.nl (Frans P. de Vries)
+Newsgroups: rec.games.computer.doom.misc
+Subject: Re: Doom 1.0 or lower?!?! Love to see it!
+Date: 21 Dec 1995 21:42:19 +0100
+Organization: Home
+
+Robert Densie (robertd@lekera.southern.co.nz) wrote:
+} It's an ALPHA version of doom (I just run it to make sure)
+} called "Doom: Evil Unleashed".  Start up screen says Doom Alpha by
+} Id Software.
+
+Thanks for posting it (and to Chris for you know what ;-).  I had a look
+at it too, and noted:
+
+} It has the basic Doom engine, but
+} * The imps and pink demons are in the game they don't move or anything
+}   just stand there
+
+There are 2 Barons of Hell in E1M12.  If you shoot a monster with your
+rifle, it just disappears, i.e. there are no death frames yet.
+
+} * No barrels (as noted above)
+
+There are barrels in one level but not as we now know them.  Like all
+things (monsters, treasures, ammo, etc.) they just disappear when shot
+with the rifle.
+
+} * The map key is "a" not tab
+} * The strafe and open door key are both alt
+
+The 'm' key toggles between normal viewing point and a viewing point at
+floor level.  You can continue to run around like this, but I presume this
+is a preliminary hack at the death players' viewing point.
+
+The '[' and ']' keys increase and decrease the viewing area.  Full screen
+mode (w/o status bar) is already implemented.
+
+} * The two weapons you start with are (1) bayonet and (2) rifle
+
+There is a chainsaw in one level but it can't be picked up.  There's a
+shotgun (using a rough version of the pump-action graphics) and a missile
+launcher (that uses the shotgun graphics), but you can't shoot anything
+with these.
+
+} * There is no run key (that I could find, so makes getting around really
+}   slow)
+
+I found that the diagonal strafe run makes you run quite fast.
+
+} * It is quite easy to recognise some of the structures in the game
+}   (so the whole map structure is now over two years old).  I can't
+}   quote exactly were they are from but I do recognise them
+
+See below for a list.
+
+} * In the screen options there is high, medium, low, <another one>, and
+}   HIGH RES, so it looks like there use to be a high res mode that was
+}   taken out in the official release.
+
+The keys 'q', 'w' and 'e' switch to the first three modes high, medium, low.
+
+} I other thing I did notice while looking through the doom.exe file is
+} that there is reference to "E1M10 E1M11 E1M12 E1M13", so it looks like
+} there was original more than 9 levels per episode
+
+Most of the levels made it into the final game:
+
+ -run <level>   final level
+     1           not used
+     2           E2M2
+     3           E2M3
+     4           E1M7
+     5           E3M3
+     6           MAP10 (DOOM II !)
+     7           E1M4 (no inverse swastika in the "swastika room" yet ;)
+     8           E1M2 (rough)
+     9           E1M6 (rough)
+     10          E1M3 (partly)
+     11          E2M7
+     12          E1M8 (really rough)
+     13          E2M4
+    E2M1         crashes too early into the level to recognise it, but I
+                 agree with Alden Bates that it could be E3M7
+
+
+The engine doesn't allow the player to jump off ledges that are higher than
+what the player can climb back on.  Thus some parts of the levels can't be
+accessed, and there are a lot of moving elevators where different techniques
+have been employed later.
+
+The cheat codes don't work, obviously, because these were implemented by
+Dave Taylor and he joined id sometime in the second half of 1993, I think.
+
+Every level consists off:  ExMy, FLATNAME, POINTS, LINES, SECTORS & THINGS.
+FLATNAME lists the floor and ceiling textures, which were of course later
+merged into SECTORS.  The others are pretty obvious.  Structures like SEGS,
+BLOCKMAP and NODES were apparently added later to improve performance.
+
+There is something that looks like a "-savepcx" parameter in the .exe, and
+messages like "IO_ScreenShot: Couldn't create an LBM" and "Screen saved",
+but I haven't found a way to actually produce screen shots.  There must be
+a way, since the doompix1.exe screen shots are older than this .exe.  The
+same goes for recording demos, as there are 4 demos included in the .wad.
+
+The frame rate dots (-devparm in the final game) are permanently enabled.
+At the start of each level, the four players (all green) are already there,
+but of course only one moves.
+
+There are references to "actors" in the .exe, so some terminology from the
+Wolfenstein 3D engine was inherited into id's next engine.
+
+And this concludes my nostalgia trip. :-)
+--
+Frans P. de Vries | fpv@xymph.iaf.nl | Rec.Games.Computer.Doom FAQ maintainer
