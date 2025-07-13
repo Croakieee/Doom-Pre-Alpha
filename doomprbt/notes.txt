@@ -1,0 +1,6 @@
+This version requires setting the system clock back before Oct 31, 1993.
+More info and a utility to circumvent this used to be available on Lee
+Killough's Classic DOOM page.  As that has been shut down, I have included
+it separately in the file fakedate.zip.
+--
+Frans P. de Vries | fpv@ftp.cdrom.com | Doom/Quake archive backup maintainer
