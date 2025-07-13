@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1722570245</mtime>
+    <size>15673</size>
+    <md5>26a83550fe97f131e70c07213cdbf897</md5>
+    <crc32>a3f77932</crc32>
+    <sha1>22851af89c9869dc06a18ea1454afce156990cc2</sha1>
+    <format>Item Tile</format>
+  </file>
+  <file name="doom0_3.png" source="original">
+    <mtime>1722570233</mtime>
+    <size>161926</size>
+    <md5>c171b5c08853b9e8931d73b8aafd6612</md5>
+    <crc32>ca6ad661</crc32>
+    <sha1>cbf290cf498aec0f3d6b3750e40f1053949a809d</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="doom0_3.zip" source="original">
+    <mtime>1722566301</mtime>
+    <size>601317</size>
+    <md5>78d1513396804e0223dea59ac3140eac</md5>
+    <crc32>ef1072d4</crc32>
+    <sha1>13fbe7e928aa3bdc11ecdb6b43f53880a7eac11a</sha1>
+    <format>ZIP</format>
+    <filecount>4</filecount>
+    <viruscheck>1722566650</viruscheck>
+    <title>Unmodified ZIP from gamers.org</title>
+  </file>
+  <file name="doom0_3_archive.torrent" source="metadata">
+    <btih>b24e00f7c896e2d8f5c9436e5cf30a5d1be69275</btih>
+    <mtime>1727834635</mtime>
+    <size>2123</size>
+    <md5>df122004d2ca2fcfd5029cc59437c86b</md5>
+    <crc32>ae329ae2</crc32>
+    <sha1>74b7ab7c8d3e3cfb39613ea2c3a9c16a4b066d35</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="doom0_3_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>60890e1683a517b415ab303234907c71</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="doom0_3_meta.sqlite" source="original">
+    <mtime>1722570240</mtime>
+    <size>20480</size>
+    <md5>f34f3961311cec9348cbd6ee5833ef7e</md5>
+    <crc32>1698e898</crc32>
+    <sha1>09df1f048a18db84db20a86b088d522674fc8ff3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doom0_3_meta.xml" source="original">
+    <mtime>1727834634</mtime>
+    <size>5655</size>
+    <md5>e4934cf86f181aa3d1abfa015219637c</md5>
+    <crc32>e8ff4307</crc32>
+    <sha1>a6dd5a9ccc31e775f42b87a16ceb43bb47b0f8e5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="doom0_3_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>doom0_3.png</original>
+    <mtime>1722570304</mtime>
+    <size>9093</size>
+    <md5>ae558d47f7844958eccdc6611a7dda47</md5>
+    <crc32>5c718c56</crc32>
+    <sha1>82fc7420814ed1b0ba8a353cc76c02ba3b980452</sha1>
+  </file>
+</files>

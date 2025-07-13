@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>doom0_3</identifier>
+  <mediatype>software</mediatype>
+  <collection>softwarelibrary_msdos_games</collection>
+  <creator>id software</creator>
+  <date>1993-02-28</date>
+  <description>&lt;div&gt;&lt;a href="https://doomwiki.org/wiki/Doom_v0.3" rel="nofollow"&gt;Read more about this prototype on DoomWiki.org&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Original description:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;===========================================================================&lt;br /&gt;Archive Maintainer      : Upload to historic&lt;br /&gt;Primary purpose         : Historically important "lost" DOOM alpha build&lt;br /&gt;===========================================================================&lt;br /&gt;Title                   : DOOM Alpha v0.3 (aka "DOOM Pre-Alpha")&lt;br /&gt;Filename                : doom0_3.zip&lt;br /&gt;Release date            : 28 February 1993&lt;br /&gt;Author                  : id Software&lt;br /&gt;Email Address           : haleyjd@hotmail.com (uploader only)&lt;br /&gt;&lt;br /&gt;Description             : This is the long-rumored v0.3 alpha, built by&lt;br /&gt;                          id Software on February 28, 1993, almost one &lt;br /&gt;                          month later than the v0.2 tech demo and 2 months&lt;br /&gt;                          earlier than the much further progressed v0.4.&lt;br /&gt;                          Notable features include several maps in their&lt;br /&gt;                          earliest known forms and a fully functional&lt;br /&gt;                          on-screen automap. Though apparently never&lt;br /&gt;                          released to id's alpha testers, this build was&lt;br /&gt;                          sent to several industry professionals for&lt;br /&gt;                          comment and review, whereby it has been &lt;br /&gt;                          successfully preserved. It much more fully &lt;br /&gt;                          displays the DOOM engine in its earliest state&lt;br /&gt;                          than the tech demo, with an internal &lt;br /&gt;                          architecture significantly different and less &lt;br /&gt;                          advanced than later builds. Crashes will be&lt;br /&gt;                          common, especially when walking over two-sided&lt;br /&gt;                          lines. The README file promises a more proper&lt;br /&gt;                          release to follow in two weeks, but such a &lt;br /&gt;                          release is not presently known to exist.&lt;br /&gt;&lt;br /&gt;Additional Credits to   : Robert Morgan, Braden Obrzut&lt;br /&gt;===========================================================================&lt;br /&gt;* What is included *&lt;br /&gt;&lt;br /&gt;New levels              : 9&lt;br /&gt;Sounds                  : No&lt;br /&gt;Music                   : No&lt;br /&gt;Graphics                : Yes&lt;br /&gt;Other                   : MS-DOS executable and original README file.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;* Copyright / Permissions *&lt;br /&gt;&lt;br /&gt;The DOOM v0.3 alpha is the property of id Software and has been uploaded&lt;br /&gt;to complete the set of historic alpha builds. Authors should treat its&lt;br /&gt;resources the same as those of any shareware or commercial release.&lt;br /&gt;&lt;br /&gt;This is NOT a supported product of id Software; do not contact them with&lt;br /&gt;questions about how to use it.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;* Where to get the file that this text file describes *&lt;br /&gt;&lt;br /&gt;The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;</description>
+  <emulator>dosbox</emulator>
+  <language>eng</language>
+  <scanner>Internet Archive HTML5 Uploader 1.7.0</scanner>
+  <subject>doom</subject>
+  <subject>alpha</subject>
+  <subject>prototype</subject>
+  <subject>technology</subject>
+  <subject>test</subject>
+  <subject>techdemo</subject>
+  <subject>dos</subject>
+  <subject>usenet</subject>
+  <subject>bbs</subject>
+  <subject>id software</subject>
+  <subject>john romero</subject>
+  <subject>doom0_3.zip</subject>
+  <title>DOOM Alpha v0.3</title>
+  <uploader>marco@icculus.org</uploader>
+  <publicdate>2024-08-02 02:38:40</publicdate>
+  <addeddate>2024-08-02 02:38:40</addeddate>
+  <year>1993</year>
+  <emulator_ext>zip</emulator_ext>
+  <emulator_start>DOOM.EXE</emulator_start>
+  <curation>[curator]validator@archive.org[/curator][date]20240802030946[/date][comment]checked for malware[/comment]</curation>
+  <collection_added>softwarelibrary</collection_added>
+  <collection_added>emulation</collection_added>
+  <collection>softwarelibrary_msdos</collection>
+  <collection>softwarelibrary</collection>
+  <collection>emulation</collection>
+  <collection_added>softwarelibrary_msdos</collection_added>
+</metadata>

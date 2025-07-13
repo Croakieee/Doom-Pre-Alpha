@@ -1,0 +1,54 @@
+===========================================================================
+Archive Maintainer      : Upload to historic
+Primary purpose         : Historically important "lost" DOOM alpha build
+===========================================================================
+Title                   : DOOM Alpha v0.3 (aka "DOOM Pre-Alpha")
+Filename                : doom0_3.zip
+Release date            : 28 February 1993
+Author                  : id Software
+Email Address           : haleyjd@hotmail.com (uploader only)
+
+Description             : This is the long-rumored v0.3 alpha, built by
+                          id Software on February 28, 1993, almost one 
+                          month later than the v0.2 tech demo and 2 months
+                          earlier than the much further progressed v0.4.
+                          Notable features include several maps in their
+                          earliest known forms and a fully functional
+                          on-screen automap. Though apparently never
+                          released to id's alpha testers, this build was
+                          sent to several industry professionals for
+                          comment and review, whereby it has been 
+                          successfully preserved. It much more fully 
+                          displays the DOOM engine in its earliest state
+                          than the tech demo, with an internal 
+                          architecture significantly different and less 
+                          advanced than later builds. Crashes will be
+                          common, especially when walking over two-sided
+                          lines. The README file promises a more proper
+                          release to follow in two weeks, but such a 
+                          release is not presently known to exist.
+
+Additional Credits to   : Robert Morgan, Braden Obrzut
+===========================================================================
+* What is included *
+
+New levels              : 9
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Other                   : MS-DOS executable and original README file.
+
+
+* Copyright / Permissions *
+
+The DOOM v0.3 alpha is the property of id Software and has been uploaded
+to complete the set of historic alpha builds. Authors should treat its
+resources the same as those of any shareware or commercial release.
+
+This is NOT a supported product of id Software; do not contact them with
+questions about how to use it.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
